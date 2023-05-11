@@ -1,6 +1,6 @@
 # Projeto de autenticação Basic
 
-<p>Neste projeto que desenvolvi, utilizei a biblioteca `PASSPORT` para auxiliar na autenticação.</p>
+<p>Neste projeto que desenvolvi, utilizei a biblioteca <b>PASSPORT</b> para auxiliar na autenticação.</p>
 <p>Projeto rodando em forma de API com consulta ao banco de dados, disponivel na raiz do projeto!</p><br/>
 <h3>Para rodar este projeto será necessario algumas ferramentas</h3><br/>
 
